@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>verano</title> 
+<title>Otoño</title> 
   <meta charset="UTF-8">
    <link rel="stylesheet" href="css/pinterest.css">
   <link rel="icon" href="imagenes/zap.png" type="image/png">   
